@@ -1,5 +1,3 @@
-My Java Application made for the subject Object Oriented Programming
+A Java Application with a simple user interface and also has a terminal interface. Made for a university project focusing on OOP practices
 
-Its a movie ticketing system that can also book seats and order food and drinks
-
-Used Netbeans to develop the entire thing
+Developed using Java on Netbeans
